@@ -1,4 +1,3 @@
-
 #define AO_PIN A0  // ESP8266's pin connected to AO pin of the ldr module
 
 void setup() {
